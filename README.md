@@ -1,5 +1,5 @@
 # DNN-based automatic chord recognizer.
-Automatic chord recognition using FeedForward and Convolutional Neuronal Networks on Pytorch
+Automatic chord recognition using Feed-Forward and Convolutional Neuronal Networks on Pytorch
 
 
 ## Programming language
