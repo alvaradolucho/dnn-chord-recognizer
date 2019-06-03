@@ -24,7 +24,7 @@ Python 3 (Jupyter)
 
 ## Datasets
 
-Music dataset by Isophonics (labels available at http://isophonics.org/content/reference-annotations)
+Music dataset by Isophonics (annotations at http://isophonics.org/content/reference-annotations)
 
   * Carole King: Tapestry, Ode Records, 4931802003
   * Queen: Greatest Hits I, Parlophone, 0777 7 8950424
