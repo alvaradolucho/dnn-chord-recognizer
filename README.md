@@ -8,6 +8,8 @@ Python 3 (Jupyter)
   
 ## Libraries
 
+  * Librosa
+  
   * Pytorch
 	
   * Numpy
